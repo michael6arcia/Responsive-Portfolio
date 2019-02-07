@@ -154,3 +154,21 @@ h4 {
 .prtspace {
     height: 100px;
 }
+
+@media screen and (max-width: 768px) {
+    body {
+        float: left;
+        width: 768px;
+    }
+    .header {
+        width: 100%;
+    }
+    .nav {
+        float: left;
+    }
+    .article {
+        width: 700px;
+        float: left;
+        margin-left: 10px;
+    }
+}
