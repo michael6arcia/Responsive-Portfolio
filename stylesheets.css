@@ -164,11 +164,19 @@ h4 {
         width: 100%;
     }
     .nav {
-        float: left;
+        float: right;
+        margin-right: 320px;
     }
     .article {
-        width: 700px;
+        width: 660px;
         float: left;
-        margin-left: 10px;
+        margin-left: 25px;
+        margin-bottom: 50px;
+    }
+    .footer1 {
+        margin-top: 900px;
+    }
+    .footer2 {
+        margin-top: 900px;
     }
 }
